@@ -9,6 +9,9 @@ public List() {
 element = new Object[CAPACITY];
 }
 
+
+
+
 	    public void add(E e) {
 
 	        if (size == element.length) {
